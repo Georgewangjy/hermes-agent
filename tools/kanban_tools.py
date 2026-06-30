@@ -1,4 +1,4 @@
-"""Kanban tools — structured tool-call surface for worker + orchestrator agents.
+"""Kanban tools — structured tool-call surface for worker + orchestrator agents.-ok
 
 These tools are registered into the model's schema when the agent is
 running under the dispatcher (env var ``HERMES_KANBAN_TASK`` set) or when
